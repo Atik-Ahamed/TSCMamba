@@ -1,0 +1,12 @@
+einops==0.7.0
+joblib==1.3.2
+mamba-ssm==2.1.0
+matplotlib==3.8.2
+patool==2.2.0
+PyWavelets==1.6.0
+reformer-pytorch==1.4.4
+scikit-learn==1.4.0
+scipy==1.12.0
+sktime==0.28.0
+numpy==1.26.3
+tqdm==4.66.1
